@@ -2,18 +2,18 @@
 ## My pseudonym is [@ArceProgramando](https://github.com/arceprogramando) 
 
 ---
-- 📈 8/8/2022 my way begins.
-- 👨‍💻 I currently work for [simplificar.com.ar](https://simplificar.com.ar)[Page in progress].
-- 👀 I’m interested in get a job , 
+* 📈 8/8/2022 my way begins.
+* 👨‍💻 I currently work for [simplificar.com.ar](https://simplificar.com.ar)[Page in progress].
+* 👀 I’m interested in get a job , 
 contribute to projects...
-- 💎 I have a degree in [web development](https://www.coderhouse.com/certificados/637579203779c3000ed1cb30) and javascript.
-- 🌱 I’m currently learning Development Web( REACT)... 
-- 🚀 Continue with  and BACKEND In the future.
-- 💞️ I’m looking to collaborate on Google or MercadoLibre...
-- 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
-- 🙏 Thanks for reading.
+* 💎 I have a degree in [web development](https://www.coderhouse.com/certificados/637579203779c3000ed1cb30) and javascript.
+* 🌱 I’m currently learning Development Web( REACT)... 
+* 🚀 Continue with  and BACKEND In the future.
+* 💞️ I’m looking to collaborate on Google or MercadoLibre...
+* 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
+* 🙏 Thanks for reading.
 
-- 🧿 [Updated 4/2/22].
+* 🧿 [Updated 4/2/22].
 
 
 --- 
@@ -26,10 +26,10 @@ __Layout__
 1. TAILWIND (⭐ ⭐)
 
 __Programming Language__
-* Javascript ⭐⭐
+* Javascript (⭐⭐)
 
 __Frameworks__
-* React ⭐ 
+* React (⭐)
 
 ---
 __Languages__
