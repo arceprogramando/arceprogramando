@@ -18,17 +18,18 @@ contribute to projects...
 
 --- 
 __Layout__
-1. HTML (⭐⭐⭐⭐⭐) ✔️
-1. CSS (⭐⭐⭐⭐⭐)✔️
-1. SASS (⭐⭐)✔️
-1. BOOTSTRAP (⭐ ⭐)✔️
-1. TAILWIND (⭐ ⭐)✔️
+
+1. HTML (⭐⭐⭐⭐⭐) 
+1. CSS (⭐⭐⭐⭐⭐)
+1. SASS (⭐⭐)
+1. BOOTSTRAP (⭐ ⭐)
+1. TAILWIND (⭐ ⭐)
 
 __Programming Language__
-* Javascript ⭐⭐✔️
+* Javascript ⭐⭐
 
 __Frameworks__
-* React ⭐ ✔️
+* React ⭐ 
 
 ---
 __Languages__
