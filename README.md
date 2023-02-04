@@ -47,7 +47,7 @@ __Languages__
 
 
 ---
-![imagen Mia](https://i.ibb.co/tMpmh4X/301806148-599710788464539-2088601974251784911-n.jpg)
+<!-- ![imagen Mia](https://i.ibb.co/tMpmh4X/301806148-599710788464539-2088601974251784911-n.jpg) -->
 <!---
 arceprogramando/arceprogramando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
