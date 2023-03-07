@@ -1,4 +1,4 @@
-<img align='right' src='./images.me.jpg' width='38%'>
+<img align='right' src='./images/me.jpg' width='38%'>
 
 # Hi, I’m **Felipe Arce** 👋
 
