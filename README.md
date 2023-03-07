@@ -27,6 +27,9 @@
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ 
+ <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/figma-2296071-1912030.png?f=avif&w=256" />
+
 </div>
 
 **Languages**
