@@ -21,14 +21,13 @@
 
 <h4>· Frontend: </h4>
 <div>
+ <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/figma-2296071-1912030.png?f=avif&w=256" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- 
- <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/figma-2296071-1912030.png?f=avif&w=256" />
 
 </div>
 
