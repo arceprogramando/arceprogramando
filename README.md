@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on Google or MercadoLibre...
 - 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
 - my first job [Microgenesis](https://microgenesis.net/) 
-- 🧿 [Updated 6/3/23].
+- 🧿 [Updated 11/3/23].
 
 ---
 
@@ -50,9 +50,9 @@ console.log("Thanks For Reading ❤️🖥️❤️ ");
 ```
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceprogramando&show_icons=true&locale=en&layout=compact" alt="arceprogramando" /></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p>
+<p>&nbsp;<img align="left" width='50%' src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p>
 
-<p><img align="right" width='38%' src="https://github-readme-streak-stats.herokuapp.com/?user=arceprogramando&" alt="arceprogramando" /></p>
+<p><img align="right" width='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=arceprogramando&" alt="arceprogramando" /></p>
 
 ---
 
