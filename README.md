@@ -11,17 +11,17 @@
   contribute to projects...
 
 - 💎 I have a degree in [web development](https://www.coderhouse.com/certificados/637579203779c3000ed1cb30) and [javascript.](https://www.coderhouse.com/certificados/63f649e3f457ee000ea355d6)
-- 🌱 I’m currently learning Development Web( REACT.JS)...
-- 🚀 Continue with BACKEND In the future.
-- 💞️ I’m looking to collaborate on Google or MercadoLibre...
+- 🌱 I’m currently learning Development Web( Backend)...
+- 🚀 Continue with Next.js and Three.js In the future.
+- 💞️ My dream is to collaborate with Google or MercadoLibre...
 - 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
 - my first job [Microgenesis](https://microgenesis.net/) 
-- 🧿 [Updated 11/3/23].
+- 🧿 [Updated 2/4/23].
 
 ---
 
 <h4>· Frontend: </h4>
-<div align="center">
+<div >
  <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/figma-2296071-1912030.png?f=avif&w=256" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -37,7 +37,7 @@
 
 - | English | Español   |
   | ------- | --------- |
-  | --B1--  | --nativo- |
+  | --C1--  | --nativo- |
 
 > Voy a dar Lo mejor De mi En todo Aspecto Posible.
 >
