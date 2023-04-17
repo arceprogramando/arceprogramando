@@ -20,7 +20,7 @@
 - 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
 - my first job [Microgenesis](https://microgenesis.net/) 
 -Freelance Dev
-- 🧿 [Updated 2/4/23].
+- 🧿 [Updated 16/4/23].
 
 ---
 
