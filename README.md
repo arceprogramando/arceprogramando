@@ -1,7 +1,7 @@
-<!-- <img align='right' src='./images/me.jpg' width='38%'> -->
+
 <p><img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p>
 
-<!-- <p><img align="right" width='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=arceprogramando&" alt="arceprogramando" /></p> -->
+
 
 # Hi, I’m **Felipe Arce** 👋
 
@@ -20,7 +20,7 @@
 - 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
 - my first job [Microgenesis](https://microgenesis.net/) 
 -Freelance Dev
-- 🧿 [Updated 16/4/23].
+- 🧿 [Updated 6/5/23].
 
 ---
 
@@ -46,19 +46,7 @@
 > Voy a dar Lo mejor De mi En todo Aspecto Posible.
 >
 > I will give my best in every aspect possible.
-
 ---
-
 ```javascript
 console.log("Thanks For Reading ❤️🖥️❤️ ");
 ```
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceprogramando&show_icons=true&locale=en&layout=compact" alt="arceprogramando" /></p> -->
-
-
-
----
-
-<!---
-arceprogramando/arceprogramando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
