@@ -15,12 +15,12 @@
 
 - 💎 I have a degree in [web development](https://www.coderhouse.com/certificados/637579203779c3000ed1cb30) , [javascript.](https://www.coderhouse.com/certificados/63f649e3f457ee000ea355d6) and [React.js](https://www.coderhouse.com/certificados/6422ef2e1553510002cd5b4f)
 - 🌱 I’m currently learning Development Web( Backend)...
-- 🚀 Continue with Next.js and Three.js In the future.
-- 💞️ My dream is to collaborate with Google or MercadoLibre...
+- 🚀 Continue with Next.js in the future
+- 💞️ My dream is to collaborate with Mercadolibre...
 - 📫 How to reach me |[+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0)| arceprogramando@gmail.com
 - my first job [Microgenesis](https://microgenesis.net/) 
 -Freelance Dev
-- 🧿 [Updated 6/5/23].
+- 🧿 [Updated 8/5/23].
 
 ---
 
@@ -31,7 +31,6 @@
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
