@@ -41,7 +41,7 @@
 
 - | English | Español   |
   | ------- | --------- |
-  | --C1--  | --nativo- |
+  | --B2--  | --nativo- |
 
 > Voy a dar Lo mejor De mi En todo Aspecto Posible.
 >
