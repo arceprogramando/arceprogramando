@@ -1,6 +1,6 @@
 
 <p><img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p>
-<img height="150" src="https://github.com/arceprogramando/primera-preentrega-backend/blob/main/yoga.png" />
+
 
 # Hi, I’m **[Arce](https://www.linkedin.com/in/arcefelipe/)** 👋
 ---
@@ -28,7 +28,7 @@
  
  
 </div>
-
+<img height="150" align="right" src="https://github.com/arceprogramando/primera-preentrega-backend/blob/main/yoga.png" />
 **Languages**
 
 - | English | Español   |
