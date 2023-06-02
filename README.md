@@ -1,4 +1,4 @@
-<p><img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p>
+<!-- <p><img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p> -->
 
 # Hi, I’m **[Arce](https://www.linkedin.com/in/arcefelipe/)** 👋
 ---
@@ -10,7 +10,7 @@
 - 📫 How to reach me: [+5491150990913](https://api.whatsapp.com/send/?phone=5491150990913&text=Holaa%21+me+gustaria+un+presupuesto+de+tu+trabajo+desarrollando+paginas+web+%21%21%21%21&type=phone_number&app_absent=0) | arceprogramando@gmail.com
 - My first job: [Microgenesis](https://microgenesis.net/)
 - Freelance Dev
-- 🧿 [Updated 24/5/23].
+- 🧿 [Updated 2/6/23].
 
 ---
 
