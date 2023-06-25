@@ -9,7 +9,7 @@
 - 🚀 I am studying the MERN stack.
 - My first job: [Microgenesis](https://microgenesis.net/)
 - Freelance Dev
-- 🧿 [Updated 11/6/23].
+- 🧿 [Updated 25/6/23].
 
 ---
 
