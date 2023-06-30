@@ -10,7 +10,7 @@
 - Freelance Dev
 - 🧿 Updated June 30, 2023.
 - ⌚ wakatime installed June 12, 2023 </br>
-[![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
+        [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
 ---
 
 <h4>· Frontend: </h4>
@@ -23,8 +23,7 @@
     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical)</br>
-
+![https://www.linkedin.com/in/arcefelipe/](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical\&rank_icon=github)</br>
 
 - | English | Español   |
   | ------- | --------- |
@@ -36,3 +35,5 @@
 
 ```javascript
 console.log("Thanks For Reading ❤️🖥️❤️");
+```
+
