@@ -23,8 +23,7 @@
     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
-![https://www.linkedin.com/in/arcefelipe/](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical\&rank_icon=github)</br>
-
+[![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical&rank_icon=github)](https://www.linkedin.com/in/arcefelipe/)
 - | English | Español   |
   | ------- | --------- |
   | --B1--  | --nativo- |
