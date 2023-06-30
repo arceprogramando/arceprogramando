@@ -1,6 +1,5 @@
-<!-- <p><img align="right" width='50%' src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&locale=en" alt="arceprogramando" /></p> -->
-
 # Hi, I’m **[Arce](https://www.linkedin.com/in/arcefelipe/)** 👋
+![](https://img.shields.io/badge/Top%20Language-Javascript-brightgreen?logo=javascript&logoColor=yellow)
 ---
 
 - 📈 My journey began on 8/8/2022.
@@ -24,7 +23,7 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical)</br>
-![](https://img.shields.io/badge/Top%20Language-Javascript-brightgreen?logo=javascript&logoColor=yellow)
+
 
 - | English | Español   |
   | ------- | --------- |
