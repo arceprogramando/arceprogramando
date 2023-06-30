@@ -9,7 +9,7 @@
 - 🚀 I am studying the MERN stack.
 - My first job: [Microgenesis](https://microgenesis.net/)
 - Freelance Dev
-- 🧿 [Updated 25/6/23].
+- 🧿 [Updated 30/6/23].
 
 ---
 
@@ -23,9 +23,8 @@
     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical)
-
-**Languages**
+![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical)</br>
+![](https://img.shields.io/badge/Top%20Language-Javascript-brightgreen?logo=javascript&logoColor=yellow)
 
 - | English | Español   |
   | ------- | --------- |
