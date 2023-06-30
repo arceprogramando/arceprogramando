@@ -2,14 +2,15 @@
 ![](https://img.shields.io/badge/Top%20Language-Javascript-brightgreen?logo=javascript&logoColor=yellow)
 ---
 
-- 📈 My journey began on 8/8/2022.
+- 📈 My journey began on August 8, 2022.
 - 👀 I’m interested in getting a job and contributing to projects.
 - 💎 I have a degree in [web development](https://www.coderhouse.com/certificados/637579203779c3000ed1cb30), [javascript](https://www.coderhouse.com/certificados/63f649e3f457ee000ea355d6), and [React.js](https://www.coderhouse.com/certificados/6422ef2e1553510002cd5b4f).
 - 🚀 I am studying the MERN stack.
 - My first job: [Microgenesis](https://microgenesis.net/)
 - Freelance Dev
-- 🧿 [Updated 30/6/23].
-
+- 🧿 Updated June 30, 2023.
+- ⌚ wakatime installed June 12, 2023 </br>
+[![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
 ---
 
 <h4>· Frontend: </h4>
