@@ -23,12 +23,7 @@
     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
-<!-- <img height="200px" align="right" src="https://github.com/arceprogramando/primera-preentrega-backend/blob/main/Group%205.png" />
-
-
-
-<img height="150px" align="right" src="https://github.com/arceprogramando/primera-preentrega-backend/blob/main/yoga.png" /> -->
-
+![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical)
 
 **Languages**
 
