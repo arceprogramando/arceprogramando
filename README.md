@@ -11,7 +11,7 @@
 - 🧿 Updated June 30, 2023.
 - ⌚ wakatime installed June 12, 2023 </br>
         [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
-- since july 10, 2022 using linux ubuntu 🐧
+- since july 10, 2023 using linux ubuntu 🐧
 ---
 
 <h4>· Frontend: </h4>
