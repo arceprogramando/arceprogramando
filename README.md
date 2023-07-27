@@ -37,4 +37,9 @@
 ```javascript
 console.log("Thanks For Reading ❤️🖥️❤️");
 ```
+```typescript
+let myTypeString : string = 'hello world!';
+console.log(`${myTypeString}`);
+```
+
 
