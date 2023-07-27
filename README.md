@@ -13,8 +13,7 @@
         [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
 - since july 10, 2023 using linux ubuntu 🐧
 - since july 27, 2023 using typescript 🔵
-- 
----
+<hr>
 
 <h4>· Frontend: </h4>
 <div>
