@@ -10,9 +10,9 @@
 - Freelance Dev
 - ⌚ wakatime installed June 12, 2023 </br>
         [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
-- since july 10, 2023 using linux ubuntu 🐧
-- since july 27, 2023 using  typescript  🔵
-- 🧿 Updated  August  10, 2023. (1 year since I decided to study in a dedicated way 🎉) 
+- since july 10, 2023 using linux ubuntu (Leave Windows )🐧
+- since july 27, 2023 using  typescript  🔵 (I won't be playing much with TypeScript until September 6 :(.) 
+- 🧿 Updated  August  6 September, 2023. (It's been 1 year and 1 month since I decided to study in a dedicated way 🎉.) 
 <hr>
 
 <h4>· Frontend: </h4>
