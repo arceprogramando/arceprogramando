@@ -13,7 +13,7 @@
         [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
 - Since July 10, 2023, I've been using Linux Ubuntu (I left Windows) 🐧
 - Since October 29, 2023, I've been using TypeScript 🔵
-🧿 Updated on December 12, 2023. (It's been 1 year and 4 months since I decided to study in a dedicated way 🎉.)
+- 🧿 Updated on December 12, 2023. (It's been 1 year and 4 months since I decided to study in a dedicated way 🎉.)
 <hr>
 
 [![Portada Herramientas](https://github.com/arceprogramando/arceprogramando/blob/main/images/PortadaGithub.png)](https://github.com/arceprogramando)
