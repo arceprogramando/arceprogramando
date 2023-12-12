@@ -16,28 +16,7 @@
 - 🧿 Updated on October 29, 2023. (It's been 1 year and 2 months since I decided to study in a dedicated way 🎉.)
 <hr>
 
-<h4>· Frontend: </h4>
-<div>
-    <img height="35px" src="https://cdn.iconscout.com/icon/free/png-512/figma-2296071-1912030.png?f=avif&w=256" />
-    <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>
-<h4>· Backend: </h4>
-<div>
-        <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-        <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-        <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-        <img height="30px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
-        
-</div>
-<h4>· Kit: </h4>
-<div>
-        <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-        <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
-</div>
+[![Portada Herramientas](https://github.com/arceprogramando/arceprogramando/blob/main/images/PortadaGithub.png)](https://github.com/arceprogramando)
 
 [![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical&rank_icon=github)](https://www.linkedin.com/in/arcefelipe/)
 - | English | Español   |
