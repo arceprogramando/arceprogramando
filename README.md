@@ -22,9 +22,9 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical&rank_icon=github)](https://www.linkedin.com/in/arcefelipe/)
 
-| English | Español   |
-| ------- | --------- |
-| --B1--  | --nativo-- |
+| English | Español   | Japones
+| ------- | --------- | --------- |
+| --B1--  | --nativo-- | -- A1-- |
 
 > Voy a dar lo mejor de mí en todo aspecto posible.
 >
