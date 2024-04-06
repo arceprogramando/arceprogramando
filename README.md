@@ -14,7 +14,8 @@
   [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
 - Since July 10, 2023, I've been using Linux Ubuntu (I switched from Windows) 🐧
 - Since October 29, 2023, I've been using TypeScript 🔵
-- 🧿 Updated on January 29, 2024. (It's been 1 year and 5 months since I decided to study in a dedicated way 🎉.)
+- I started the first year of the university technical course in programming on April 15, 2024, following my successful completion of the admission exam 📚
+- 🧿 Updated on January 29, 2024. (It's been 1 year and 7 months since I decided to study in a dedicated way 🎉.)
 ---
 
 [![Cover Tools](https://github.com/arceprogramando/arceprogramando/blob/main/images/PortadaGithub.png)](https://github.com/arceprogramando)
