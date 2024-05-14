@@ -1,7 +1,7 @@
 # Hi, I’m [Arce](https://www.linkedin.com/in/arcefelipe/) 👋
 
 [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
-![](https://www.codewars.com/users/arceprogramando/badges/micro)
+[![codewars](https://www.codewars.com/users/arceprogramando/badges/micro)](https://www.codewars.com/users/arceprogramando)
 ![](https://img.shields.io/badge/Top%20Language-Javascript-brightgreen?logo=javascript&logoColor=yellow)
 - 📈 My coding journey began on August 8, 2022.  
 Updated my README on May 12, 2024. (It's been 1 year and 8 months since I started studying dedicatedly 🎉.)
