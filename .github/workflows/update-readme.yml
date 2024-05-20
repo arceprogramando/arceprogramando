@@ -24,9 +24,7 @@ jobs:
           # Actualizar la URL de la imagen del Pokémon en el README.md
           sed -i "s|<img src=\"[^\"]*\"|<img src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\"|g" README.md
       
-      - name: Pull latest changes
-        run: git pull origin main
-      
+
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -35,6 +33,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update Pokémon image URL in README with new Pokémon"
+            git commit -m "feat(image):🌈 New pokemon"
             git push
           fi
