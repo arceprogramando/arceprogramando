@@ -19,8 +19,7 @@ jobs:
           # Generar un número aleatorio entre 1 y 1025
           POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
           # Actualizar la URL de la imagen del Pokémon en el README.md
-          sed -i "s|<img src=\"[^\"]*\" alt=\"[^\"]*\" id=\"pokemondehoy\"[ ]*/?>|<img src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\" alt=\"Pokémon del día\" id=\"pokemondehoy\" />|g" README.md
-
+          sed -i "s|<img src=\"[^\"]*\"|<img src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\"|g" README.md
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
