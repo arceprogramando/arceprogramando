@@ -25,7 +25,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s|<img src=\"pokemondehoy\".*>|<img src=\"$IMG_URL\" alt=\"$NAME\" />|g" README.md
+          sed -i "s|<img src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/.*\.png\" alt=\".*\" id=\"pokemondehoy\"/>|<img src=\"$IMG_URL\" alt=\"$NAME\" id=\"pokemondehoy\" />|g" README.md
 
       - name: Commit changes
         run: |
