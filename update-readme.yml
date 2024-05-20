@@ -1,0 +1,36 @@
+name: Update README with new Pokémon
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Esto se ejecuta todos los días a la medianoche UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Pokémon Data
+        id: fetch_pokemon
+        run: |
+          POKEMON=$(curl -s https://pokeapi.co/api/v2/pokemon/$(shuf -i 1-1025 -n 1))
+          NAME=$(echo $POKEMON | jq -r '.name')
+          IMG_URL=$(echo $POKEMON | jq -r '.sprites.front_default')
+          echo "::set-output name=name::$NAME"
+          echo "::set-output name=img_url::$IMG_URL"
+
+      - name: Update README
+        run: |
+          sed -i "s|<img src=\"pokemondehoy\".*>|<img src=\"$IMG_URL\" alt=\"$NAME\" />|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with new Pokémon"
+          git push
