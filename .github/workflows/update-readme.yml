@@ -20,6 +20,10 @@ jobs:
           POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
           # Actualizar la URL de la imagen del Pokémon en el README.md
           sed -i "s|<img src=\"[^\"]*\"|<img src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\"|g" README.md
+      
+      - name: Pull latest changes
+        run: git pull origin main
+      
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
