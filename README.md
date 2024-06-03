@@ -16,7 +16,7 @@ Updated my README on May 12, 2024. (It's been 1 year and 8 months since I starte
 
 # Pokemon De hoy (GithubAction)
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"/>
 
 <div class="Youtube-Content">
 # Canal de YouTube
