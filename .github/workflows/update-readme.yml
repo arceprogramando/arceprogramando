@@ -24,7 +24,7 @@ jobs:
           # Generar el nuevo HTML solo para la imagen del Pokémon
           NEW_HTML="<img width=\"10%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\"/>"
           # Reemplazar solo la URL de la imagen del Pokémon en el README.md
-          sed -i "s|<img width=\"10%\" src=\"[^\"]*\"|${NEW_HTML}|g" README.md
+          sed -i "s|<img width=\"10%\" src=\"[^\"]*\">|${NEW_HTML}|g" README.md
 
       - name: Commit changes
         run: |
