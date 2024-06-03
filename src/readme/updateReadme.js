@@ -5,13 +5,14 @@ export const updateReadme = async (data) => {
     const { mainVideo, lastVideos } = data;
 
     let youtubeContent = `<div class="Youtube-Content">
-# Canal de YouTube
 
-## Video de Presentación
+# Canal de YouTube - Video de Presentación
 
-[![Presentación](${mainVideo.thumbnail})](${mainVideo.url})
+<a href='${mainVideo.url}' target='_blank'>
+  <img width='40%' src='${mainVideo.thumbnail}' alt='Video Presentación' />
+</a>
 
-## Últimos Videos de mi [canaldeyoutube](https://www.youtube.com/channel/UC3Dnra3CWle6GRayNRWiS1g)
+## Últimos Videos de mi [canal de youtube](https://www.youtube.com/channel/UC3Dnra3CWle6GRayNRWiS1g)
 `;
 
     lastVideos.forEach((video, index) => {

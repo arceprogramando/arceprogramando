@@ -12,20 +12,25 @@ Updated my README on May 12, 2024. (It's been 1 year and 8 months since I starte
 - First year of university studies 📚
 
 ---
-[![](https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical&rank_icon=github)](https://www.linkedin.com/in/arcefelipe/)
 
 # Pokemon De hoy (GithubAction)
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png"/>
+<a href="https://www.linkedin.com/in/arcefelipe/">
+  <img src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical&rank_icon=github" width="40%">
+</a>
+<a href="https://www.youtube.com/watch?v=gMdIe9Mk14g&t=20s">
+  <img width="10%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png"/>
+<a/>
 
 <div class="Youtube-Content">
-# Canal de YouTube
 
-## Video de Presentación
+# Canal de YouTube - Video de Presentación
 
-[![Presentación](https://i.ytimg.com/vi/2GQs9a54IXY/hqdefault.jpg)](https://www.youtube.com/watch?v=2GQs9a54IXY)
+<a href='https://www.youtube.com/watch?v=2GQs9a54IXY' target='_blank'>
+  <img width='40%' src='https://i.ytimg.com/vi/2GQs9a54IXY/hqdefault.jpg' alt='Video Presentación' />
+</a>
 
-## Últimos Videos de mi [canaldeyoutube](https://www.youtube.com/channel/UC3Dnra3CWle6GRayNRWiS1g)
+## Últimos Videos de mi [canal de youtube](https://www.youtube.com/channel/UC3Dnra3CWle6GRayNRWiS1g)
 
 <a href='https://www.youtube.com/watch?v=0E5gy7QtGpI' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/0E5gy7QtGpI/hqdefault.jpg' alt='Últimos videos 1' />
