@@ -22,9 +22,9 @@ jobs:
           # Generar un número aleatorio entre 1 y 1025
           POKEMON_NUMBER=$(shuf -i 1-1025 -n 1)
           # Generar el nuevo HTML solo para la imagen del Pokémon
-          NEW_HTML="<img width=\"30%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\""
+          NEW_HTML="<img width=\"20%\" src=\"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${POKEMON_NUMBER}.png\""
           # Reemplazar solo la URL de la imagen del Pokémon en el README.md
-          sed -i "s|<img width=\"30%\" src=\"[^\"]*\"|${NEW_HTML}|g" README.md
+          sed -i "s|<img width=\"20%\" src=\"[^\"]*\"|${NEW_HTML}|g" README.md
 
       - name: Commit changes
         run: |
