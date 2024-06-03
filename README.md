@@ -26,8 +26,8 @@ Updated my README on May 12, 2024. (It's been 1 year and 8 months since I starte
 
 # Canal de YouTube - Video de Presentación
 
-<a href='https://www.youtube.com/watch?v=2GQs9a54IXY' target='_blank'>
-  <img width='40%' src='https://i.ytimg.com/vi/2GQs9a54IXY/hqdefault.jpg' alt='Video Presentación' />
+<a href='https://www.youtube.com/watch?v=gMdIe9Mk14g' target='_blank'>
+  <img width='40%' src='https://i.ytimg.com/vi/gMdIe9Mk14g/hqdefault.jpg' alt='Video Presentación' />
 </a>
 
 ## Últimos Videos de mi [canal de youtube](https://www.youtube.com/channel/UC3Dnra3CWle6GRayNRWiS1g)
