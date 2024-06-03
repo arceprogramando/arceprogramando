@@ -20,7 +20,7 @@ Updated my README on May 12, 2024. (It's been 1 year and 8 months since I starte
 </a>
 <a href="https://www.youtube.com/watch?v=gMdIe9Mk14g&t=20s">
 <<<<<<< HEAD
-  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png"/>
+  <img width="30%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png"/>
 =======
   <img width="10%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png"/>
 >>>>>>> 9454cb189eaa0de29e6f271bcf873e57b3e81a9d
