@@ -30,13 +30,13 @@
 
 ## Últimos Videos de mi [canal de youtube](https://www.youtube.com/channel/UC3Dnra3CWle6GRayNRWiS1g)
 
+<a href='https://www.youtube.com/watch?v=5azNrCaiqFo' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/5azNrCaiqFo/hqdefault.jpg' alt='Últimos videos 1' />
+</a>
+<a href='https://www.youtube.com/watch?v=d5AhcYMrxU8' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/d5AhcYMrxU8/hqdefault.jpg' alt='Últimos videos 2' />
+</a>
 <a href='https://www.youtube.com/watch?v=lDCuQ2UGESQ' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/lDCuQ2UGESQ/hqdefault.jpg' alt='Últimos videos 1' />
-</a>
-<a href='https://www.youtube.com/watch?v=0E5gy7QtGpI' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/0E5gy7QtGpI/hqdefault.jpg' alt='Últimos videos 2' />
-</a>
-<a href='https://www.youtube.com/watch?v=JXkM0OvlTH0' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/JXkM0OvlTH0/hqdefault.jpg' alt='Últimos videos 3' />
+  <img width='30%' src='https://i.ytimg.com/vi/lDCuQ2UGESQ/hqdefault.jpg' alt='Últimos videos 3' />
 </a>
 </div>
