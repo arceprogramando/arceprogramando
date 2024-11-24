@@ -1,6 +1,9 @@
 # Hi, I’m [Arce](https://www.linkedin.com/in/arcefelipe/) 👋
 
-<img  src='https://media.licdn.com/dms/image/v2/D4D16AQFxW9rnHamwNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714687137975?e=1738195200&v=beta&t=K2FOykIjBbkdo_KN_im9KHqQUVMCkE8uFUUttru_r8o' alt='Video Presentación' />
+<a href="https://www.linkedin.com/in/arcefelipe/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFxW9rnHamwNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714687137975?e=1738195200&v=beta&t=K2FOykIjBbkdo_KN_im9KHqQUVMCkE8uFUUttru_r8o" 
+         alt="Video Presentación" />
+</a>
 
 [![wakatime](https://wakatime.com/badge/user/5171ea5a-2f95-4085-b61a-0a425c9d1f8b.svg)](https://wakatime.com/@5171ea5a-2f95-4085-b61a-0a425c9d1f8b)
 [![codewars](https://www.codewars.com/users/arceprogramando/badges/micro)](https://www.codewars.com/users/arceprogramando)
