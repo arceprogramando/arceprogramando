@@ -1,0 +1,38 @@
+name: Update YouTube Banner
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Se ejecuta diariamente a las 03:00 UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-youtube-banner:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update script
+        run: npm run dev
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "feat(banner): Updated YouTube banner"
+            git push
+          fi
