@@ -2,7 +2,7 @@ name: Update YouTube Banner
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Se ejecuta diariamente a las 03:00 UTC
+    - cron: '0 0 * * *'  # Se ejecuta diariamente a las 03:00 UTC
   push:
     branches:
       - main
@@ -23,7 +23,7 @@ jobs:
         run: npm install
 
       - name: Run update script
-        env: # Pasar los secretos como variables de entorno
+        env:
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: npm run dev
