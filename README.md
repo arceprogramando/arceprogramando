@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arceprogramando&show_icons=true&theme=radical&rank_icon=github" width="40%">
 </a>
 <a href="https://www.youtube.com/watch?v=gMdIe9Mk14g&t=20s">
-  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png"/>
+  <img width="20%" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png"/>
 <a/>
 
 <div class="Youtube-Content">
