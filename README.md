@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/arcefelipe/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFxW9rnHamwNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714687137975?e=1759363200&v=beta&t=IhbXr5ivO0jMZwRaeocuVhNlW3k0MrSuBuvL7c3Jg-8" 
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFxW9rnHamwNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714687137975?e=1796860800&v=beta&t=X-Jq-xPLpHgpXRG1TnQ6VVnEAzgUAxqBhZMX8nuXpgY" 
          alt="Video Presentación" />
 </a>
 
